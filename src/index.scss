@@ -6,11 +6,17 @@
 
 $mainBlack: #222;
 $mainGreen: #82b340;
+$mainGreen2: #a8df9d;
+$mainGreen3: #51b33d;
 $mainWhite: #fff;
 $mainGrey: #ececec;
+$mainGrey2: #767676;
+$mainGrey3: #424242;
+$mainGrey4: #393939;
+$mainGrey5: #d0d0d0;
 
-body{
-    background: $mainWhite;
-    color: $mainBlack;
-    font-family: 'Open Sans', sans-serif;
+body {
+  background: $mainGrey4;
+  color: $mainBlack;
+  font-family: "Open Sans", sans-serif;
 }
